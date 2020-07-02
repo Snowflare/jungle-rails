@@ -1,7 +1,14 @@
 class CartsController < ApplicationController
-
-  def show
+  def empty
+    
   end
+  def show
+    if cart == {}
+      render 'empty'
+    end 
+  end
+
+  
 
   def add_item
     product_id = params[:product_id].to_s
