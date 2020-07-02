@@ -2,6 +2,7 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of learning Rails by example.
 ## Screenshots
+
 ### Home
 !["Screenshot of Homepage"](https://raw.githubusercontent.com/Snowflare/jungle-rails/master/docs/home.png)
 
