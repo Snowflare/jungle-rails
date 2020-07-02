@@ -2,11 +2,19 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of learning Rails by example.
 ## Screenshots
-
+### Home
 !["Screenshot of Homepage"](https://raw.githubusercontent.com/Snowflare/jungle-rails/master/docs/home.png)
+
+### Product Detail
 !["Screenshot of Product Details"](https://raw.githubusercontent.com/Snowflare/jungle-rails/master/docs/product_detail.png)
+
+### My Cart
 !["Screenshot of My Cart"](https://raw.githubusercontent.com/Snowflare/jungle-rails/master/docs/cart.png)
+
+### Credit Card Info
 !["Screenshot of Checkout"](https://raw.githubusercontent.com/Snowflare/jungle-rails/master/docs/checkout.png)
+
+### Order Receipt
 !["Screenshot of reciept"](https://raw.githubusercontent.com/Snowflare/jungle-rails/master/docs/reciept.png)
 
 
