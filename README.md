@@ -1,7 +1,15 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of learning Rails by example.
+## Screenshots
 
+!["Screenshot of Homepage"](https://raw.githubusercontent.com/Snowflare/scheduler/master/docs/Initial.png)
+!["Screenshot of Product Details"](https://raw.githubusercontent.com/Snowflare/scheduler/master/docs/appoinment-form.png)
+!["Screenshot of My Cart"](https://raw.githubusercontent.com/Snowflare/scheduler/master/docs/appointment-form2.png)
+!["Screenshot of Checkout"](https://raw.githubusercontent.com/Snowflare/scheduler/master/docs/saving.png)
+!["Screenshot of Appointment Booked"](https://raw.githubusercontent.com/Snowflare/scheduler/master/docs/appoinment-booked.png)
+!["Screenshot of Delete Confirmation"](https://raw.githubusercontent.com/Snowflare/scheduler/master/docs/delete-confirmation.png)
+!["Screenshot of Deleting"](https://raw.githubusercontent.com/Snowflare/scheduler/master/docs/deleting.png)
 
 ## Setup
 
